@@ -1,0 +1,61 @@
+.project {
+  display: flex;
+  flex-direction: row;
+  background-color: #f8f9fa;
+  width: 550px;
+  height: 125px;
+  border-radius: 20px;
+  margin-top: 15px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  transition: box-shadow 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.project:hover {
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.project:active {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.project-img {
+  width: 100%;
+  height: auto;
+}
+
+.projectImg {
+  width: 125px;
+  height: 125px;
+  border-radius: 20px 0px 0px 20px;
+}
+
+.infos {
+  text-align: justify;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0px;
+}
+
+h4 {
+  margin: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+  .project {
+    width: 80%;
+  }
+  .infos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0px;
+  }
+  h4 {
+    display: none;
+  }
+}
