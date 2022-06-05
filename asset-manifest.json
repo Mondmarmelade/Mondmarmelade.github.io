@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mondmarmelade.com/static/css/main.9310f57d.css",
-    "main.js": "/mondmarmelade.com/static/js/main.fa3590bc.js",
-    "static/js/787.5117783e.chunk.js": "/mondmarmelade.com/static/js/787.5117783e.chunk.js",
-    "static/media/Moon.png": "/mondmarmelade.com/static/media/Moon.b462cc59b0b7c22d1f7d.png",
-    "static/media/Kahboom.png": "/mondmarmelade.com/static/media/Kahboom.2c85530c19e0527b93dd.png",
-    "index.html": "/mondmarmelade.com/index.html",
-    "main.9310f57d.css.map": "/mondmarmelade.com/static/css/main.9310f57d.css.map",
-    "main.fa3590bc.js.map": "/mondmarmelade.com/static/js/main.fa3590bc.js.map",
-    "787.5117783e.chunk.js.map": "/mondmarmelade.com/static/js/787.5117783e.chunk.js.map"
+    "main.css": "/static/css/main.9310f57d.css",
+    "main.js": "/static/js/main.f793a305.js",
+    "static/js/787.5117783e.chunk.js": "/static/js/787.5117783e.chunk.js",
+    "static/media/Moon.png": "/static/media/Moon.b462cc59b0b7c22d1f7d.png",
+    "static/media/Kahboom.png": "/static/media/Kahboom.2c85530c19e0527b93dd.png",
+    "index.html": "/index.html",
+    "main.9310f57d.css.map": "/static/css/main.9310f57d.css.map",
+    "main.f793a305.js.map": "/static/js/main.f793a305.js.map",
+    "787.5117783e.chunk.js.map": "/static/js/787.5117783e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9310f57d.css",
-    "static/js/main.fa3590bc.js"
+    "static/js/main.f793a305.js"
   ]
 }
