@@ -12,7 +12,7 @@ function Main() {
       <img src={moon} className="moon" alt="moon" />
       <div>
         <p>
-          <span class="wave">👋</span>Mondmarmelade.
+          <span className="wave">👋</span>Mondmarmelade.
         </p>
         <div className="links">
           <SocialBtn url={"https://github.com/Mondmarmelade"} img={github} />
