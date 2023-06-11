@@ -1,8 +1,5 @@
 name: deploy to gh pages
-on:
-  push:
-    branches:
-      - main
+on: workflow_dispatch
 jobs:
   deploy-site:
     runs-on: ubuntu-latest
