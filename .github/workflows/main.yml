@@ -1,0 +1,10 @@
+name: deploy to gh pages
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy-site:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm run deploy
