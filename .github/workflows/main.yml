@@ -4,5 +4,5 @@ jobs:
   deploy-site:
     runs-on: ubuntu-latest
     steps:
-      - run: npm i
+      - run: npm install
       - run: npm run deploy
