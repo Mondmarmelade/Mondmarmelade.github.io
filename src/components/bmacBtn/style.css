@@ -1,0 +1,19 @@
+.bmac-img {
+    width: 210px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 0px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.bmac-img:hover {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
+.bmac-img:active {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}

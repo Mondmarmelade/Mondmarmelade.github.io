@@ -4,6 +4,7 @@ import github from "../../img/GitHub.png";
 import twitter from "../../img/Twitter.png";
 import instagram from "../../img/Instagram.png";
 import SocialBtn from "../SocialBtn";
+import BmacBtn from "../bmacBtn/index";
 import "./style.css";
 
 function Main() {
@@ -22,6 +23,7 @@ function Main() {
             img={instagram}
           />
         </div>
+          <BmacBtn />
       </div>
     </div>
   );
